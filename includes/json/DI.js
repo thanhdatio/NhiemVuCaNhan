@@ -3,25 +3,25 @@ var immortaldailies = {
         task: "Nín thở kỵ khí trên cạn",
         url: "#",
         desc: "1 phút 39 giây",
-        boxcount: 1
+        boxcount: 5
     },
 	"id-sigil": {
         task: "Nín thở đầy khí trên cạn",
         url: "#",
         desc: "3 phút 35 giây",
-        boxcount: 1
+        boxcount: 5
     },
 	"id-wall": {
         task: "Nín thở kỵ khí mặt tiếp xúc nước",
         url: "#",
         desc: "3 phút 27 giây",
-        boxcount: 1
+        boxcount: 5
     },
 	"id-rift": {
         task: "Hít mạnh vươn vai liên tục",
         url: "#",
         desc: "84 lần",
-        boxcount: 1
+        boxcount: 3
     },
 	"id-battleground": {
         task: "Nắm xòe tay kỵ khí liên tục",
@@ -29,7 +29,7 @@ var immortaldailies = {
         duration: 2,
         url: "#",
         desc: "150 lần",
-        boxcount: 1
+        boxcount: 10
     },
 	"id-win-battleground": {
         task: "Kiễng chân kỵ khí liên tục",
@@ -37,18 +37,18 @@ var immortaldailies = {
         duration: 2,
         url: "#",
         desc: "50 lần",
-        boxcount: 1
+        boxcount: 10
     },
 	"id-dungeon": {
         task: "Chạy nước rút 90m",
         url: "#",
         desc: "11 giây",
-        boxcount: 2
+        boxcount: 5
     },
 	"daily-ascended-bounties": {
         task: "Chống đẩy kỵ khí",
         url: "#",
         desc: "45 lần",
-        boxcount: 1
+        boxcount: 3
     },
 };
