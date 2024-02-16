@@ -36,4 +36,11 @@ var dailies = {
         desc: "Tập phát âm OM trong thời gian dài nhất",
         boxcount: 5
     },
+    "khoimuitrai": {
+        task: "Làm mũi trái thông thoáng",
+        url: "#",
+        short: true,
+        desc: "Mũi trái đang bị nghẹt, tập trung tâp trí làm mũi trái bớt nghẹt",
+        boxcount: 10
+    },
 };
