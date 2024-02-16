@@ -1,9 +1,8 @@
 var monthlies = {
     "hilt": {
-        task: "Hilts Trader Monthly",
+        task: "Tổng kết tuần",
         url: "#",
-        desc: "Buy monthly items such as a {leg_crest}",
-        img: "hilts",
-        boxcount: 1
+        desc: "Tổng kết kiểm điểm công việc hàng tuần",
+        boxcount: 4
     },
 };
