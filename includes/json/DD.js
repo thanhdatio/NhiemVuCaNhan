@@ -13,7 +13,7 @@ var dailydrops = {
         desc: "Cập nhật các thông tin trên Facebook, cố gắng xử lý thông tin trong thời gian ngắn nhất",
         boxcount: 6
     },
-    "daily-lair": {
+    "daily-lair1": {
         task: "Làm việc tập trung đúng mục tiêu",
         url: "#",
         short: true,
