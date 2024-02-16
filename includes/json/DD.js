@@ -1,11 +1,10 @@
 var dailydrops = {
     "daily-dungeon": {
-        task: "4 Player Dungeons",
-        url: "#",
+        task: "Hê lô ngày mới",
+        url: "https://thanhdat.io",
         short: true,
-        desc: "After the first 5 {gems}, you'll get 1 gem per hour",
-        img: "gem",
-        boxcount: 5
+        desc: "Hê lô ngày mới thành đạt",
+        boxcount: 2
     },
     "daily-lair": {
         task: "Hidden Lair",
