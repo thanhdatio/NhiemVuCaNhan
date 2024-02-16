@@ -1,62 +1,54 @@
 var immortaldailies = {
 	"id-statue": {
-        task: "Inspect The Immortal Statue in Westmarch",
+        task: "Nín thở kỵ khí trên cạn",
         url: "#",
-        desc: "10 Points",
-        img: "placeholder",
+        desc: "1 phút 39 giây",
         boxcount: 1
     },
 	"id-sigil": {
-        task: "Contribute Sigil of Dominance to the Eternal Crown",
+        task: "Nín thở đầy khí trên cạn",
         url: "#",
-        desc: "10 Points",
-        img: "dominance",
+        desc: "3 phút 35 giây",
         boxcount: 1
     },
 	"id-wall": {
-        task: "Inspect The Wall of Honor",
+        task: "Nín thở kỵ khí mặt tiếp xúc nước",
         url: "#",
-        desc: "10 Points",
-        img: "placeholder",
+        desc: "3 phút 27 giây",
         boxcount: 1
     },
 	"id-rift": {
-        task: "Complete a Challenge Rift",
+        task: "Hít mạnh vươn vai liên tục",
         url: "#",
-        desc: "20 Points",
-        img: "placeholder",
+        desc: "84 lần",
         boxcount: 1
     },
 	"id-battleground": {
-        task: "Participate in a Battleground",
+        task: "Nắm xòe tay kỵ khí liên tục",
         time: "8-12-18-22",
         duration: 2,
         url: "#",
-        desc: "20 Points",
-        img: "placeholder",
+        desc: "150 lần",
         boxcount: 1
     },
 	"id-win-battleground": {
-        task: "Win a Battleground",
+        task: "Kiễng chân kỵ khí liên tục",
         time: "8-12-18-22",
         duration: 2,
         url: "#",
-        desc: "20 Points",
-        img: "placeholder",
+        desc: "50 lần",
         boxcount: 1
     },
 	"id-dungeon": {
-        task: "Complete The Dungeon: (Random Dungeon)",
+        task: "Chạy nước rút 90m",
         url: "#",
-        desc: "25 Points",
-        img: "placeholder",
+        desc: "11 giây",
         boxcount: 2
     },
 	"daily-ascended-bounties": {
-        task: "Complete 2 Bounties",
+        task: "Chống đẩy kỵ khí",
         url: "#",
-        desc: "50 Points",
-        img: "placeholder",
+        desc: "45 lần",
         boxcount: 1
     },
 };
