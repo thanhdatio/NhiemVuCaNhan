@@ -14,10 +14,17 @@ var dailydrops = {
         boxcount: 6
     },
     "daily-lair1": {
-        task: "Làm việc tập trung đúng mục tiêu",
+        task: "Kiểm tra thị trường",
         url: "#",
         short: true,
-        desc: "Xác định mục tiêu và giải quyết vấn đề tập trung nhất có thể",
-        boxcount: 10
+        desc: "Xem thông tin thị trường, xem nhanh nhất có thể và tìm hội",
+        boxcount: 3
+    },
+    "daily-lair2": {
+        task: "Mua ETHW",
+        url: "#",
+        short: true,
+        desc: "Mua tích lũy ETHW hàng ngày trên OKX, xử lý nhanh gọn nhanh nhất có thể",
+        boxcount: 1
     },
 };
