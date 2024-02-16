@@ -11,7 +11,6 @@ var dailydrops = {
         url: "https://www.facebook.com",
         short: true,
         desc: "Cập nhật các thông tin trên Facebook, cố gắng xử lý thông tin trong thời gian ngắn nhất",
-        img: "gem",
         boxcount: 6
     },
 };
