@@ -1,57 +1,17 @@
 var dailydrops = {
     "daily-dungeon": {
-        task: "Hê lô ngày mới",
-        url: "https://thanhdat.io",
+        task: "Truy cập Zalo cập nhật thông tin",
+        url: "https://chat.zalo.me",
         short: true,
-        desc: "Hê lô ngày mới thành đạt",
-        boxcount: 2
+        desc: "Cập nhật các thông tin trên Zalo, cố gắng xử lý thông tin trong thời gian ngắn nhất",
+        boxcount: 10
     },
     "daily-lair": {
-        task: "Hidden Lair",
-        url: "#",
+        task: "Truy cập Facebook cập nhật thông tin",
+        url: "https://www.facebook.com",
         short: true,
-        desc: "Only 6 {gems} per day. Can be done in 1-2 Lairs",
+        desc: "Cập nhật các thông tin trên Facebook, cố gắng xử lý thông tin trong thời gian ngắn nhất",
         img: "gem",
         boxcount: 6
-    },
-    "daily-side": {
-        task: "Blue Side Quests",
-        url: "#",
-        short: true,
-        desc: "Up to 5 {dust} for each reward. No more drops after the 5th",
-        img: "dust",
-        boxcount: 5
-    },
-    "daily-purple": {
-        task: "Purple Boss Quest",
-        url: "#",
-        short: true,
-        desc: "Up to 5 {dust} for each reward. No more drops after the 5th",
-        img: "dust",
-        boxcount: 5
-    },
-    "daily-popup": {
-        task: "Kill x Monsters popup Quest",
-        url: "#",
-        short: true,
-        desc: "Up to 5 {dust} for each reward. No more drops after the 5th",
-        img: "dust",
-        boxcount: 5
-    },
-    "daily-chest": {
-        task: "Cursed Chests",
-        url: "#",
-        short: true,
-        desc: "Up to 5 {dust} for each reward. No more drops after the 5th",
-        img: "dust",
-        boxcount: 5
-    },
-    "daily-zoltun": {
-        task: "Library of Zoltun Kulle",
-        url: "#",
-        short: true,
-        desc: "Up to 5 {dust} for each unique dungeon. Repeat dungeons don't drop any.",
-        img: "dust",
-        boxcount: 5
     },
 };
