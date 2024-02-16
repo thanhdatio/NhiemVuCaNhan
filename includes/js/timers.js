@@ -5,7 +5,7 @@ const getTimezone = function(){
 
 const countDown = function () {
 	let serverTime = new Date();
-    serverTime.setHours(serverTime.getUTCHours() + -(getTimezone()-3));
+    serverTime.setHours(serverTime.getUTCHours() + -(getTimezone()));
 
 	let elements = document.querySelectorAll("td.all-schedule-time");
 
