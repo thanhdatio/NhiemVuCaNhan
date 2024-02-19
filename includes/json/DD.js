@@ -20,4 +20,11 @@ var dailydrops = {
         desc: "Xem thông tin thị trường, xem nhanh nhất có thể và tìm hội",
         boxcount: 3
     },
+    "timduanchayaff": {
+        task: "Tìm sản phẩm tiếp thị liên kết",
+        url: "#",
+        short: true,
+        desc: "Tìm được sản phẩm chạy tiếp thị liên kết tiềm năng để triển khai",
+        boxcount: 3
+    },
 };
