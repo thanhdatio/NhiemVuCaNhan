@@ -2,6 +2,8 @@ var weeklies = {
     "challenge-rifts": {
         task: "Xông hơi",
         url: "#",
+        time: "17",
+        duration: 1,
         desc: "Đi xông hơi mỗi tuần 3 lần vào thứ 2, thứ 4, thứ 6",
         boxcount: 3
     },
