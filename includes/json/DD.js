@@ -1,9 +1,9 @@
 var dailydrops = {
-    "daily-dungeon": {
-        task: "Truy cập Zalo cập nhật thông tin",
-        url: "https://chat.zalo.me",
+    "khoiluong21lan": {
+        task: "Rà soát khối lượng 21 làn",
+        url: "",
         short: true,
-        desc: "Cập nhật các thông tin trên Zalo, cố gắng xử lý thông tin trong thời gian ngắn nhất",
+        desc: "Rà soát kỹ lại khối lượng 21 làn đảm báo đúng đủ",
         boxcount: 10
     },
     "daily-lair": {
