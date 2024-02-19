@@ -538,7 +538,7 @@ const checkReset = function (timeFrame, char) {
 
     //check lastupdated < last weekly reset
     if (timeFrame == 'weeklies') {
-        let weekmodifier = (7 - resetday + nextdate.getUTCDay()) % 7;
+        let weekmodifier = (6 - resetday + nextdate.getUTCDay()) % 7;
         nextdate.setUTCDate(nextdate.getUTCDate() - weekmodifier);
     } else if (timeFrame == 'monthlies') {
         nextdate.setUTCDate(1);
@@ -584,7 +584,7 @@ const countDown = function (timeFrame) {
         nextdate.setUTCHours(resetHour);
         nextdate.setUTCMinutes(0);
         nextdate.setUTCSeconds(0);
-        let weekmodifier = (7 + resetday - nextdate.getUTCDay()) % 7;
+        let weekmodifier = (6 + resetday - nextdate.getUTCDay()) % 7;
         nextdate.setUTCDate(nextdate.getUTCDate() + weekmodifier);
         if (isAfterWeeklyReset && isAfterDailyReset) {
             nextdate.setUTCDate(nextdate.getUTCDate() + 7);
