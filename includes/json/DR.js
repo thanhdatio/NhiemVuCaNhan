@@ -3,8 +3,8 @@ var dailies = {
         task: "Cười thường xuyên",
         url: "#",
         short: true,
-        desc: "Duy trì việc cười thường xuyên",
-        boxcount: 1
+        desc: "Duy trì việc cười thường xuyên, giữ ánh mắt kiên định",
+        boxcount: 10
     },
     "daily-battlegrounds": {
         task: "Thở sâu",
@@ -36,11 +36,18 @@ var dailies = {
         desc: "Tập phát âm OM trong thời gian dài nhất",
         boxcount: 5
     },
-    "khoimuitrai": {
+    "keothatlung": {
         task: "Kéo căng vùng thắt lưng",
         url: "#",
         short: true,
         desc: "Tập các bài kéo giãn vùng thắt lưng dưới, vặn gập nhẹ nhàng để làm mềm các đốt ống thắt lưng, khớp cùng chậu.",
+        boxcount: 10
+    },
+    "keeoxuongham": {
+        task: "Kéo căng vùng xương hàm",
+        url: "#",
+        short: true,
+        desc: "Tập các bài kéo căng vùng xương hàm, há to, cười quay sang 2 bên để linh hoạt khớp vùng mặt",
         boxcount: 10
     },
 };
