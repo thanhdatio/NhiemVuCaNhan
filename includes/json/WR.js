@@ -25,4 +25,10 @@ var weeklies = {
         desc: "Mua tích lũy ETHW hàng ngày trên OKX, xử lý nhanh gọn nhanh nhất có thể",
         boxcount: 7
     },
+    "diduxuan": {
+        task: "Đi du xuân 2 ngày",
+        url: "#",
+        desc: "Đi du xuân 2 ngày tới Nghệ An vào Thứ 6 và Thứ 7",
+        boxcount: 1
+    },
 };
