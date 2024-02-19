@@ -480,7 +480,7 @@ const updateTimeContent = function(){
                     Math.floor(remainingtime % 3600 / 60), //m
                     Math.floor(remainingtime % 60) //s
                 ];
-                countdownElement.textContent ="Closes in: " + (timeparts[1] > 0 ? (timeparts[1] + 'h ') : '') + timeparts[2] + 'm ' + timeparts[3] + 's';
+                countdownElement.textContent ="Kết thúc lúc: " + (timeparts[1] > 0 ? (timeparts[1] + 'h ') : '') + timeparts[2] + 'm ' + timeparts[3] + 's';
                 break;
             } else{
 
@@ -493,11 +493,11 @@ const updateTimeContent = function(){
                 ];
 
                 if(remainingtime > 0){
-                    countdownElement.textContent ="Opens in: " + (timeparts[1] > 0 ? (timeparts[1] + 'h ') : '') + timeparts[2] + 'm ' + timeparts[3] + 's';
+                    countdownElement.textContent ="Bắt đầu lúc: " + (timeparts[1] > 0 ? (timeparts[1] + 'h ') : '') + timeparts[2] + 'm ' + timeparts[3] + 's';
                     break;
                 }
                 else {
-                    countdownElement.textContent = "Closed for today" //todo: set actual time
+                    countdownElement.textContent = "Hôm nay đã đóng" //todo: set actual time
                 }
             }
         }
