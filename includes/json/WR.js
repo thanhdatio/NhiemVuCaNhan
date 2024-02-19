@@ -19,4 +19,10 @@ var weeklies = {
         desc: "Hỗ trợ Đức làm báo cáo thử việc, hoàn thành trong thứ 4",
         boxcount: 1
     },
+    "muaethw": {
+        task: "Mua ETHW hàng ngày",
+        url: "#",
+        desc: "Mua tích lũy ETHW hàng ngày trên OKX, xử lý nhanh gọn nhanh nhất có thể",
+        boxcount: 7
+    },
 };
