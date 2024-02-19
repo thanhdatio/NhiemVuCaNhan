@@ -21,10 +21,10 @@ var dailydrops = {
         boxcount: 3
     },
     "timduanchayaff": {
-        task: "Tìm sản phẩm tiếp thị liên kết",
+        task: "Tiếp thị liên kết các sàn tiền mã hóa",
         url: "#",
         short: true,
-        desc: "Tìm được sản phẩm chạy tiếp thị liên kết tiềm năng để triển khai",
+        desc: "Tìm tên miền hợp lý, thiết kế các lading page các sàn lớn. Sau đó chạy quảng cáo.",
         boxcount: 3
     },
 };
