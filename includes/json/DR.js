@@ -16,7 +16,7 @@ var dailies = {
         boxcount: 10
     },
 	"daily-bestiary": {
-        task: "Nín thở không hơn",
+        task: "Nín thở không hơi",
         url: "#",
         short: true,
         desc: "Thực hiện nín thở không hơi trong thời gian lâu nhất",
@@ -37,10 +37,10 @@ var dailies = {
         boxcount: 5
     },
     "khoimuitrai": {
-        task: "Làm mũi trái thông thoáng",
+        task: "Kéo căng vùng thắt lưng",
         url: "#",
         short: true,
-        desc: "Mũi trái đang bị nghẹt, tập trung tâp trí làm mũi trái bớt nghẹt",
+        desc: "Tập các bài kéo giãn vùng thắt lưng dưới, vặn gập nhẹ nhàng để làm mềm các đốt ống thắt lưng, khớp cùng chậu.",
         boxcount: 10
     },
 };
