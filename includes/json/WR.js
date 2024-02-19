@@ -15,6 +15,6 @@ var weeklies = {
         task: "Báo cáo thử việc của Đức",
         url: "#",
         desc: "Hỗ trợ Đức làm báo cáo thử việc, hoàn thành trong thứ 4",
-        boxcount: 5
+        boxcount: 1
     },
 };
