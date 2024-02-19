@@ -20,21 +20,21 @@ var dailies = {
         url: "#",
         short: true,
         desc: "Thực hiện nín thở không hơi trong thời gian lâu nhất",
-        boxcount: 5
+        boxcount: 10
     },
     "daily-bounty": {
         task: "Nín thở đầy hơi",
         url: "#",
         short: true,
         desc: "Thực hiện nín thở đầy hơi trong thời gian lâu nhất",
-        boxcount: 5
+        boxcount: 10
     },
     "daily-faction": {
         task: "Phát âm OM",
         url: "#",
         short: true,
         desc: "Tập phát âm OM trong thời gian dài nhất",
-        boxcount: 5
+        boxcount: 10
     },
     "keothatlung": {
         task: "Kéo căng vùng thắt lưng",
