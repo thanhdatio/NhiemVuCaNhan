@@ -21,10 +21,10 @@ var dailydrops = {
         boxcount: 10
     },
     "timduanchayaff": {
-        task: "Tiếp thị liên kết các sàn tiền mã hóa",
+        task: "Làm lading page quảng cáo Binance",
         url: "#",
         short: true,
-        desc: "Tìm tên miền hợp lý, thiết kế các lading page các sàn lớn. Sau đó chạy quảng cáo.",
+        desc: "Tạo lading page kêu gọi tham gia sàn giao dịch Binance, thiết kế thu hút người xem",
         boxcount: 10
     },
 };
