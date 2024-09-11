@@ -1,23 +1,23 @@
 var dailydrops = {
-    "dexuatits": {
-        task: "Báo cáo hệ thống ITS sau mưa bão - 13/9",
+    "taptrung1": {
+        task: "Làm khỏe cột sống",
         url: "",
         short: true,
-        desc: "Tổng hợp hiện trạng hệ thống sau mưa bão ảnh hưởng những gì, cần đề xuất thực hiện thế nào",
+        desc: "Kéo căng tất cả cột sống và khớp xung quanh, tối đa hóa lưu thông máu và dẫn truyền thần kinh trên cột sống",
         boxcount: 10
     },
-    "quytrinhbaotri": {
-        task: "Đề cương và dự toán TVGS lập BC KTKT 16/9",
+    "taptrung2": {
+        task: "Giữ chặt tiền và gia tăng VNĐ",
         url: "#",
         short: true,
-        desc: "Trình đề cương và khái toán tạm tính nhiệm vụ TVGS lập báo cáo KTKT",
+        desc: "Luôn tìm kiếm nguồn thu khác và chi tiêu hợp lý nhất có thể",
         boxcount: 10
     },
-    "thaoluanits": {
-        task: "Kế hoạch và dự toán đo suy hao 20/9",
+    "taptrung3": {
+        task: "Xây dựng hạnh phúc và vui vẻ",
         url: "#",
         short: true,
-        desc: "Trình kế hoạch và dự toán thực hiện đo suy hao cáp quang",
+        desc: "Quan tâm người thương và xây dựng hạnh phúc với người thương",
         boxcount: 10
     }
     
